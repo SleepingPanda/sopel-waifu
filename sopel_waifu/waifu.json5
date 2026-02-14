@@ -10136,7 +10136,7 @@
         "Kitsu Tane",
     ],
     "Zenless Zone Zero": [
-        // sort by https://zzz3.hakush.in/character order (game-internal IDs)
+        // sort by https://zzz.gachabase.net/agents order (game-internal IDs)
         // where necessary, pull full names from https://wiki.hoyolab.com/pc/zzz/aggregate/8
 
         "Belle",  // the female player character
@@ -10177,11 +10177,13 @@
         "Lucia Elowen",
         "Flora \"Seed\"",
         "Dialyn",
+        "Sunna",
 
         // Upcoming characters (some are already in the game as NPCs)
-        "Sunna",
-        "Nangong Yu",
         "Aria",
+        "Nangong Yu",
+        "Cissia",
+        "Promeia",
 
         // Other than ZZZ players who might contribute here (as with the below),
         // currently have no source better than Fandom for NPC names. 😑
@@ -10192,9 +10194,11 @@
         "Coco",
         "Elfy",
         "Orchidea",
+        "Cecilia",
 
         // Important NPCs
         "Kasa",
+        "Rain",
         "Ray Yersin",
         "Sarah",
         "Sweety",
