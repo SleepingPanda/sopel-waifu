@@ -8891,6 +8891,10 @@
     "Tokubetsuban Free! Take Your Marks": [
         "Matsuoka Miyako",
     ],
+    "Tokyo Babylon": [
+        // sequel is X Yochou
+        "Sumeragi Hokuto",
+    ],
     "Tokyo ESP": [
         "Urushiba \"Shiroi Shoujo\" Rinka",
         "Azuma Minami",
@@ -9875,6 +9879,28 @@
         "Suzutani Momoka",
         "Takanashi Shizuka",
         "Yamada Kikuno",
+    ],
+    "X (2001)": [
+        "Hinoto",
+        "Kanoe",
+        "Kasumi Karen",
+        "Kishuu Arashi",
+        "Nekoi Yuzuriha",
+        "Yatouji Satsuki",
+        // "Baba",  // too generic, skip
+        "Kaede",
+        // "Kurofuku no Onna",  // "Woman in black"; too generic, skip
+        "Magami Tokiko",
+        "Monou Saya",
+        // "Osanai Karen",  // that is a child; skip
+        "Seishirou no Haha",
+        "Sendai Toushu",
+        "Shirou Tooru",
+    ],
+    "X Yochou": [
+        // prequel is Tokyo Babylon
+        // sequel is X (2001)
+        "Monou Kotori",
     ],
     "xxxHOLiC": [
         "Ichihara Yuuko",
