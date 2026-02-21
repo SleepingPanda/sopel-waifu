@@ -5685,6 +5685,29 @@
         "Tooya",
         "Zainab",
     ],
+    "Magic Knight Rayearth": [
+        "Hououji Fuu",
+        "Ryuuzaki Umi",
+        "Shidou Hikaru",
+        "Alcyone",
+        "Aska",
+        "Caldina",
+        "Debonair",
+        "Emeraude",
+        "Nova",
+        "Presea",
+        "Primera",
+        "Sierra",
+        "Tarta",
+        "Tatra",
+        "Hasegawa-senpai",
+        "Hououji Kuu",
+        // "Kodomo",  // generic, appears multiple times in both genders; skip
+        // "Mira",  // tagged "child"; skip
+        // "Onna Shujin",  // generic, "landlady"; skip
+        "Sera",
+        "Umi no Mama",
+    ],
     "Mahou Shoujo Lyrical Nanoha": [
         "Fate Testarossa",
         "Takamachi \"Ace of Ace\" Nanoha",
