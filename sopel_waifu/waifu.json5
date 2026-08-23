@@ -8179,6 +8179,23 @@
         "Centorea \"Cerea\" Shianus",
         "Suu \"Slime Girl\"",
     ],
+    "Morita-san wa Mukuchi": [
+        // This is an OVA, followed by an anime of the same title with a "." at
+        // the end that didn't add any new characters
+        "Morita Mayu",
+        "Matsuzaka Hana",
+        "Megane Musume",  // generic name for a character w/recurring bit
+        "Miura Chihiro",
+        "Morita Yumi",
+        "Murakoshi Miki",
+        "Yamamoto Ritsuki",
+    ],
+    "Morita-san wa Mukuchi. 2": [
+        // Previous: Morita-san wa Mukuchi (without the ".")
+        // No new characters in the first season, vs. the original OVA
+        "Hama-sensei",
+        "Maki-sensei",
+    ],
     "Mouretsu Pirates": [
         "Chiaki Kurihara",
         "Katou Marika",  // actually two guises, one student and one pirate captain
