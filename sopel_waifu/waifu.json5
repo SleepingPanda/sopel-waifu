@@ -9535,6 +9535,46 @@
         "Ekuryua Wef Tryuz Noel",
         "Keneeshu Wef Stumal Kipeil",
     ],
+    "Seikon no Qwaser": [
+        "Katya",
+        "Oribe Mafuyu",
+        "Teresa Beria",
+        "Yamanobe Tomo",
+        "Elizabeth",
+        "Eva Silver",
+        "Eva-Q",
+        "Eva-R",
+        "Jita Phrygianos",
+        "Katsuragi Hana",
+        "Kuchiba Aoi",
+        "Lulu no Haha",
+        "Milk",
+        "Minase Ayana",
+        "Mitarai Fumika",
+        "Oikawa Urara",
+        "Sendou Mutsumi",
+        "Tsujidou Miyuri",
+        "Astarte",
+        "Big Mom",
+        "Lily Kamen",
+        "Wilma",
+        // Next: Seikon no Qwaser: Jotei no Shouzou
+    ],
+    "Seikon no Qwaser II": [
+        // Previous: Seikon no Qwaser: Jotei no Shouzou
+        "Amano Tsubasa",
+        "Satsuki Ayame",
+        "Seta Miyuki",
+        "Hiiragi Yumie",
+        "Madam Lily",
+        "Okiura Nami",
+        "Shiba Emi",
+    ],
+    "Seikon no Qwaser: Jotei no Shouzou": [
+        // Previous: Seikon no Qwaser
+        "Shiizaki Lulu",
+        // Next: Seikon no Qwaser II
+    ],
     "Seirei Gensouki": [
         "Aishia",
         "Celia Claire",
