@@ -10189,6 +10189,46 @@
         "Yonehara",
         "Yoshinari",
     ],
+    "Sora no Otoshimono": [
+        "Ikaros",
+        "Mitsuki Sohara",
+        "Satsukitane Mikako",
+        "Nymph",
+        "Daedalus",
+        "Eve",
+        // "Geisha",  // no pic, presumed generic
+        // "Harpy 1",  // numbered characters are generic
+        // "Harpy 2",  // numbered characters are generic
+        // "Hiyoko",  // is a chicken
+        "Kateika-sensei",
+        "Kouminkan no Baa-chan",
+        "Mizuki",
+        // "Nakai",  // "waitress"; generic, skip
+        "Sakurai Tomoko",
+        "Sohara no Haha",
+        // "Soratobu Pantsu",  // "flying panties"; don't know why AniDB even lists this
+        "Yaoya no Oba-chan",
+        // Next: Sora no Otoshimono: Project Pink
+    ],
+    "Sora no Otoshimono Forte": [
+        // Previous: Sora no Otoshimono: Project Pink
+        "Chaos",
+        "Kazane Hiyori",
+        "Makiko",
+        // Next: Sora no Otoshimono: Tokeijikake no Angeloid
+    ],
+    "Sora no Otoshimono: Project Pink": [
+        // Previous: Sora no Otoshimono
+        "Astraea",
+        // Next: Sora no Otoshimono Forte
+    ],
+    "Sora no Otoshimono: Tokeijikake no Angeloid": [
+        // Previous: Sora no Otoshimono Forte
+        // "Hiyori no Classmate",  // too generic
+        // "Hououin King Yoshitsune",  // untagged, no pic; we assume a king is male
+        "Hououin Tsukino",
+        // Next: Sora no Otoshimono Final: Eternal My Master (no new characters; end)
+    ],
     "Sora no Woto": [
         "Sorami \"Kana\" Kanata",
         "Kannagi Noël",
