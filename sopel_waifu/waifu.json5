@@ -4872,6 +4872,68 @@
         "Matsuoka \"Micchan\" Miu",
         "Sakurago \"Mats\" Matsuri",
     ],
+    "Ikkitousen": [
+        "Goei",
+        "Ryofu Housen",
+        "Ryomou Shimei",
+        "Sonsaku Hakufu",
+        "Chinkyuu Koudai",
+        "Kaku Bunwa",
+        "Ukitsu",
+        "Kan'u Unchou",
+        // Next: Ikkitousen: Dragon Destiny
+    ],
+    "Ikkitousen: Dragon Destiny": [
+        // Previous: Ikkitousen
+        "Chouhi Ekitoku",
+        "Ryuubi Gentoku",
+        "Shiba'i Chuutatsu",
+        "Bashoku Youjou",
+        "Chouun Shiryuu",
+        "Gakushin Bunken",
+        "Kakouen Myousai",
+        "Shokatsuryou Koumei",
+        "Koshaji",
+        "Kyocho Chuukou",
+        "Rikuson Hakugen",
+        "Ten'i",
+        // Next: Ikkitousen: Great Guardians
+    ],
+    "Ikkitousen: Extravaganza Epoch": [
+        // Previous: Ikkitousen: Xtreme Xecutor
+        "Himiko",
+        "Minamoto Kurou Yoshitsune",
+        "Musashibou Benkei",
+        "Yagyuu Mitsuyoshi",
+        // Next: Ikkitousen: Western Wolves
+    ],
+    "Ikkitousen: Great Guardians": [
+        // Previous: Ikkitousen: Dragon Destiny
+        "Saji Genpou",
+        "Sonken Chuubou",
+        "Choushou Shifu",
+        // Next: Ikkitousen: Xtreme Xecutor
+    ],
+    "Ikkitousen: Western Wolves": [
+        // Previous: Ikkitousen: Extravaganza Epoch
+        "Ashiya Douman",
+        "Itoki",
+        "Kotetsu",
+        "Nantoki",
+        "Shinmen Takezou",
+        "Sonken Chuubou",
+        // Next: Shin Ikkitousen
+    ],
+    "Ikkitousen: Xtreme Xecutor": [
+        // Previous: Ikkitousen: Great Guardians
+        "Bachou Mouki",
+        // "Kentei",  // untagged, ambiguous gender; skip
+        "Mou Yuu",
+        "Mou Kaku",
+        "Soujin Shikou",
+        // Skip Ikkitousen: Shuugaku Toushi Keppuu-roku, no new characters
+        // Next: Ikkitousen: Extravaganza Epoch
+    ],
     "Imouto sae Ireba Ii.": [
         "Hashima Chihiro",
         "Kani Nayuta",
@@ -9840,6 +9902,15 @@
         "Xiao Long Nu",
         "Li Mochou",
         "Rong Huang",
+    ],
+    "Shin Ikkitousen": [
+        // Previous: Ikkitousen: Western Wolves
+        "Yamada Asaemon",
+        "Indara",
+        "Kusunoki Tamonmaru",
+        "Roshuku Shikei",
+        "Sasaki Ganryuu",
+        // End franchise, as of August 2026
     ],
     "Shingeki no Kyojin": [
         "Mikasa Ackerman",
