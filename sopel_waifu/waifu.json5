@@ -4058,6 +4058,18 @@
         "Natsu \"Nutmeg, Meg\" Megumi",
         "Mate Rin",
     ],
+    "Gokinjo Monogatari": [
+        "Kouda Mikako",
+        "Kanzaki Risa",
+        "Nakasu Mariko",
+        "Oikawa Ayumi",
+        "Oota Mai",
+        "Hamada-sensei",
+        "Kouda Ruriko",
+        "Yamaguchi Kimiko",
+        // No unique characters in movie adaptation.
+        // Next: Paradise Kiss (same setting)
+    ],
     "Golden Time": [
         "Hayashida \"Linda, Barbara\" Nana",
         "Kaga \"Roboko\" Kouko",
@@ -9046,6 +9058,21 @@
     ],
     "Papa no Iu Koto wo Kikinasai! (2013)": [
         "Kitahara Shiori",
+    ],
+    "Paradise Kiss": [
+        // Previous (same setting): Gokinjo Monogatari
+        "Hayasaka Yukari",
+        "Sakurada Miwako",
+        "Asou Kaori",
+        "Hayasaka Yasuko",
+        "Higasa",
+        "Hokenshitsu no Imouto-san",
+        "Koizumi Yukino",
+        // "Nagase Risa",  // "guise of" the one from Gokinjo Monogatari; skip
+        "Nakayama",
+        "Shimamoto Kozue",
+        "Tanabe",
+        // "Yamaguchi Alice",  // "child" tag, skip
     ],
     "Paripi Koumei": [
         "Tsukimi Eiko",
