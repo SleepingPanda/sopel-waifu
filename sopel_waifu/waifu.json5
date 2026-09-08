@@ -13324,10 +13324,10 @@
         /* 1621 */ "Roxy Ifrita Pryce",
         // Three clones (?) of the original Lady Sunbringer
         // TODO: more detailed notes after stable release
-        /* ???? */ "Eldreda Sunbringer",
-        /* ???? */ "Lindverne Sunbringer",
-        /* ???? */ "Dracaene Sunbringer",
-        /* ???? */ "Phoenix",
+        /* 1601 */ "Eldreda Sunbringer",
+        /* 1602 */ "Lindverne Sunbringer",
+        /* 1603 */ "Dracaene Sunbringer",
+        /* 1641 */ "Phoenix Reffaella",
         /* ???? */ "The Storyteller",
 
         // Other than ZZZ players who might contribute here (as with the below),
